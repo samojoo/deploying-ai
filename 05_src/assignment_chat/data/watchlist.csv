@@ -1,0 +1,12 @@
+symbol,name,exchange,country,sector,currency
+AAPL,Apple Inc,XNAS,United States,Technology,USD
+MSFT,Microsoft Corporation,XNAS,United States,Technology,USD
+TSLA,Tesla Inc,XNAS,United States,Consumer Cyclical,USD
+IBM,International Business Machines Corporation,XNYS,United States,Technology,USD
+RY,Royal Bank of Canada,XTSE,Canada,Financial Services,CAD
+SHOP,Shopify Inc,XTSE,Canada,Technology,CAD
+TD,Toronto-Dominion Bank,XTSE,Canada,Financial Services,CAD
+BP,BP p.l.c.,XLON,United Kingdom,Energy,GBP
+VOD,Vodafone Group Public Limited Company,XLON,United Kingdom,Communication Services,GBP
+SAP,SAP SE,XETR,Germany,Technology,EUR
+
